@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+
+<level tileSet="ground" puzzle="true">
+	<r>......</r> <i>      </i> <vb>      </vb> <hb>  --  </hb> <cb>      </cb>
+	<r>......</r> <i>      </i> <vb>  |   </vb> <hb>      </hb> <cb>  +   </cb>
+	<r>......</r> <i>      </i> <vb> | |  </vb> <hb>  ==  </hb> <cb>      </cb>
+	<r>......</r> <i>     5</i> <vb>      </vb> <hb>      </hb> <cb>      </cb>
+	<r>......</r> <i>012346</i> <vb>      </vb> <hb>      </hb> <cb>******</cb>
+	<r>......</r> <i>601234</i> <vb>      </vb> <hb>      </hb> <cb>******</cb>
+	<r>......</r> <i>012346</i> <vb>      </vb> <hb>      </hb> <cb>      </cb>
+	<r>ooooo.</r> <i>     5</i> <vb>      </vb> <hb>      </hb> <cb>      </cb>
+	<r>ooooo.</r> <i>     5</i> <vb>      </vb> <hb>      </hb> <cb>      </cb>
+</level>

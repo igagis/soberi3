@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+
+<level items="4" tileSet="grass" puzzle="false" time="60">
+	<r>oooooo</r> <i>      </i>
+	<r>oooooo</r> <i>      </i>
+	<r>oggggo</r> <i> pppp </i>
+	<r>o....o</r> <i> pppp </i>
+	<r>o....o</r> <i> pppp </i>
+	<r>o....o</r> <i> pppp </i>
+	<r>o....o</r> <i> ==== </i>
+	<r>oooooo</r> <i>      </i>
+	<r>oooooo</r> <i>      </i>
+</level>

@@ -1,0 +1,47 @@
+[DONE] Pause on going to inactive
+[DONE] add minimize button functionality
+- pause on minimized (pause music and sound engine)
+- Add "About" screen
+- Make chainlock non-goal item???
+- Widgets always on top/always on bottom
+[DONE] lightnings statistics
+- sound mute on/off
+- music mute on/off
+[DONE] rounden dialog corners
+- long idling items shaking
+[DONE] appearing/diappearing items in main menu
+- add button click sound?
+[DONE] statistics of time spent in game
+[DROPPED] add indication of left goal items when no goal items are popped for some time
+[DONE] add "GetReady - go" animation before starting the level
+[DONE] add "Hurry up" warning
+[DONE] change Failed word animation
+[DONE] add "Failed" word animation
+[DONE] add "Completed" word animation
+[DONE] add button stub images
+- edit item stopping sound (low-pass filter or something?)
+[DONE] add restart button in puzzle mode
+[DONE] add ice cubes and chain locks global statistics
+[DONE] find good font (Vera looks ok)
+- review font licensing, include necessary license files into the final package
+[DONE] remove time from puzzle mode
+- add endless mode
+[DONE] add ice cube breaking sound
+[DONE] change item pop sound
+[DONE] make unlocking and ice cube hit sounds louder
+[DROPPED] measure time required for completing the level
+[DONE] add unlocked lock sound
+[DONE] add lightning sound
+[DONE] make polygonal lightning
+[DONE] particle system effect from hitting the ice cube
+[DONE] melting snow tiles
+[DROPPED] optimized snow tiles?
+[DONE] "Get ready - go" before starting the level
+[DROPPED] level failed animation?
+[DROPPED] level completed animation
+[DONE] paused dialog (with menu button and back-to-game button)
+[DONE] popped items global statistics
+[DONE] asterisk on chain locks
+[DONE] asterisk on ice cubes
+[DONE] - specific items in level files
+[DONE] - puzzle levels

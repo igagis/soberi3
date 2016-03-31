@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+
+<level tileSet="grass" puzzle="true">
+	<r>.o.o.o</r> <i>      </i>
+	<r>o.o.o.</r> <i>      </i>
+	<r>......</r> <i>      </i>
+	<r>o...oo</r> <i> 221  </i>
+	<r>oo...o</r> <i>  121 </i>
+	<r>oooooo</r> <i>      </i>
+	<r>..oo..</r> <i>      </i>
+	<r>..oo..</r> <i>      </i>
+	<r>.oooo.</r> <i>      </i>
+</level>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+
+<level tileSet="grass" puzzle="false" time="20">
+	<r>oogooo</r> <i>  p   </i>
+	<r>o...oo</r> <i> ppp  </i>
+	<r>......</r> <i>pp11p </i>
+	<r>......</r> <i>pp1p=p</i>
+	<r>......</r> <i>pppppp</i>
+	<r>.oo.oo</r> <i>p  =  </i>
+	<r>oo....</r> <i> p 4  </i>
+	<r>......</r> <i>  3p5 </i>
+	<r>......</r> <i>02p=p6</i>
+</level>

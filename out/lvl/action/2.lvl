@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+
+<level items="5" tileSet="grass" time="30">
+	<r>gggggg</r> <i>pppppp</i>
+	<r>......</r> <i>pppppp</i>
+	<r>......</r> <i>pppppp</i>
+	<r>......</r> <i>pppppp</i>
+	<r>......</r> <i>pppppp</i>
+	<r>......</r> <i>pppppp</i>
+	<r>......</r> <i>======</i>
+	<r>......</r> <i>======</i>
+	<r>......</r> <i>======</i>
+</level>

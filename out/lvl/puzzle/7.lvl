@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+
+<level tileSet="ground" puzzle="true">
+	<r>o...oo</r> <i> 036  </i> <hb>    --</hb> <cb>   *  </cb>
+	<r>o.....</r> <i> 123  </i> <vb> |||  </vb> <cb> ***  </cb>
+	<r>o.....</r> <i> 123  </i> <vb> |||  </vb> <cb>  *   </cb>
+	<r>......</r> <i>12345 </i> <hb>------</hb> <cb>******</cb>
+	<r>......</r> <i>03456 </i> <vb>||||||</vb> <cb>******</cb>
+	<r>......</r> <i>03456 </i> <vb>||||||</vb>
+	<r>oooooo</r> <i>      </i>
+	<r>oooooo</r> <i>      </i>
+	<r>oooooo</r> <i>      </i>
+</level>

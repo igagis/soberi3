@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+
+<level tileSet="grass" puzzle="true">
+	<r>......</r> <i>      </i> <vb>      </vb> <hb>      </hb> <cb>      </cb>
+	<r>.....o</r> <i>   2  </i> <vb>      </vb> <hb>      </hb> <cb>      </cb>
+	<r>....oo</r> <i>1101  </i> <vb>      </vb> <hb>      </hb> <cb>      </cb>
+	<r>ooo.oo</r> <i>   0  </i> <vb>      </vb> <hb>      </hb> <cb>      </cb>
+	<r>..o.oo</r> <i>   0  </i> <vb>      </vb> <hb>      </hb> <cb>      </cb>
+	<r>o.o.oo</r> <i> 6 2  </i> <vb>      </vb> <hb>      </hb> <cb>      </cb>
+	<r>o.o.oo</r> <i> 6 2  </i> <vb>      </vb> <hb>      </hb> <cb>      </cb>
+	<r>o....o</r> <i> 2262 </i> <vb>      </vb> <hb>      </hb> <cb>      </cb>
+	<r>oooooo</r> <i>      </i> <vb>      </vb> <hb>      </hb> <cb>      </cb>
+</level>

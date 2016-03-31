@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+
+<level items="7" tileSet="ground">
+	<r>gggggg</r> <i>pppppp</i> <vb>:|: :</vb> <cb>   *+</cb> <hb>   =  </hb>
+	<r>......</r> <i>pppppp</i> <vb>: | :</vb>
+	<r>....L.</r> <i>pppppp</i>
+	<r>......</r> <i>pppppp</i> <vb>: | :</vb> <cb>+</cb>     <hb>-    =</hb>
+	<r>o.L..o</r> <i>pppppp</i>                 <cb></cb>
+	<r>......</r> <i>pp=ppp</i>
+	<r>LL....</r> <i>pppppp</i>
+	<r>..Lo..</r> <i>==pppp</i>
+	<r>o....o</r> <i>p  pp </i>
+</level>

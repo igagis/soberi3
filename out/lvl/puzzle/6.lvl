@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+
+<level tileSet="ground" puzzle="true">
+	<r>o...oo</r> <i>      </i>
+	<r>ooo...</r> <i>    1 </i>
+	<r>o.....</r> <i>   166</i>
+	<r>......</r> <i>554644</i>
+	<r>......</r> <i>135311</i>
+	<r>o....o</r> <i> 1322 </i>
+	<r>oo...o</r> <i>  211 </i>
+	<r>..o.oo</r> <i> 1 1  </i>
+	<r>.ooo..</r> <i>1   1 </i>
+</level>

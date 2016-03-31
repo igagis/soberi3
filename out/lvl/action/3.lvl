@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+
+<level items="5" time="30">
+	<r>gggggg</r> <i>      </i>
+	<r>o...o.</r> <i>      </i>
+	<r>..o...</r> <i>      </i>
+	<r>......</r> <i> p   =</i>
+	<r>.....o</r> <i>p=p   </i>
+	<r>.o....</r> <i>p pp  </i>
+	<r>......</r> <i>ppp=p </i>
+	<r>...o..</r> <i>ppp pp</i>
+	<r>......</r> <i>p=ppp=</i>
+</level>

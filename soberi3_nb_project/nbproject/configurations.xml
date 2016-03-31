@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="79">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df name="src" root="../src">
+      <df name="MyMaemoFW">
+        <in>Application.cpp</in>
+        <in>Application.hpp</in>
+        <in>BasicQMainWindow.cpp</in>
+        <in>BasicQMainWindow.hpp</in>
+        <in>GLTexture.cpp</in>
+        <in>GLTexture.hpp</in>
+        <in>GLWindow.cpp</in>
+        <in>GLWindow.hpp</in>
+        <in>Image.cpp</in>
+        <in>Image.hpp</in>
+        <in>LibOSSO.hpp</in>
+        <in>Mesh.hpp</in>
+        <in>Shader.cpp</in>
+        <in>Shader.hpp</in>
+        <in>TexFont.cpp</in>
+        <in>TexFont.hpp</in>
+        <in>Updater.cpp</in>
+        <in>Updater.hpp</in>
+        <in>Widget.cpp</in>
+        <in>Widget.hpp</in>
+        <in>ZipFile.hpp</in>
+      </df>
+      <df name="ResMan">
+        <in>ResMan.cpp</in>
+        <in>ResMan.hpp</in>
+      </df>
+      <df name="Resources">
+        <in>ResFont.cpp</in>
+        <in>ResFont.hpp</in>
+        <in>ResParticleSystem.cpp</in>
+        <in>ResParticleSystem.hpp</in>
+        <in>ResSound.cpp</in>
+        <in>ResSound.hpp</in>
+        <in>ResSprite.cpp</in>
+        <in>ResSprite.hpp</in>
+        <in>ResTexture.cpp</in>
+        <in>ResTexture.hpp</in>
+      </df>
+      <in>AnimMan.hpp</in>
+      <in>App.cpp</in>
+      <in>App.hpp</in>
+      <in>BasicWindow.cpp</in>
+      <in>BasicWindow.hpp</in>
+      <in>GameField.cpp</in>
+      <in>GameField.hpp</in>
+      <in>GameWindow.cpp</in>
+      <in>GameWindow.hpp</in>
+      <in>Item.cpp</in>
+      <in>Item.hpp</in>
+      <in>LabelWidget.cpp</in>
+      <in>LabelWidget.hpp</in>
+      <in>LibOSSO.hpp</in>
+      <in>Lightning.cpp</in>
+      <in>Lightning.hpp</in>
+      <in>ListWidget.cpp</in>
+      <in>ListWidget.hpp</in>
+      <in>MainMenuWindow.cpp</in>
+      <in>MainMenuWindow.hpp</in>
+      <in>MusicBox.cpp</in>
+      <in>MusicBox.hpp</in>
+      <in>ParticleSystem.cpp</in>
+      <in>ParticleSystem.hpp</in>
+      <in>Preferences.cpp</in>
+      <in>Preferences.hpp</in>
+      <in>ProgressBarWidget.cpp</in>
+      <in>ProgressBarWidget.hpp</in>
+      <in>Random.hpp</in>
+      <in>SelectLevelWindow.cpp</in>
+      <in>SelectLevelWindow.hpp</in>
+      <in>Sprite.cpp</in>
+      <in>Sprite.hpp</in>
+      <in>StatsWindow.cpp</in>
+      <in>StatsWindow.hpp</in>
+      <in>main.cpp</in>
+      <in>utils.cpp</in>
+      <in>utils.hpp</in>
+    </df>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false">
+      <itemPath>../TODO.txt</itemPath>
+      <itemPath>../makefile</itemPath>
+      <itemPath>../third_party/pugixml</itemPath>
+      <itemPath>soberi3_nb_project-Makefile.mk</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>../src</Elem>
+  </sourceRootList>
+  <projectmakefile>soberi3_nb_project-Makefile.mk</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>GNU|GNU</compilerSet>
+      </toolsSet>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>..</buildCommandWorkingDir>
+          <buildCommand>${MAKE} -f makefile platform=linux</buildCommand>
+          <cleanCommand>${MAKE} -f makefile platform=linux clean</cleanCommand>
+          <executablePath>../out/run_pc.sh</executablePath>
+          <cTool>
+            <incDir>
+              <pElem>../../ting/src</pElem>
+            </incDir>
+          </cTool>
+          <ccTool>
+            <incDir>
+              <pElem>../third_party</pElem>
+              <pElem>../third_party/ogles2emu</pElem>
+              <pElem>/usr/include/qt4</pElem>
+              <pElem>../../ting/src</pElem>
+            </incDir>
+          </ccTool>
+        </makeTool>
+      </makefileType>
+    </conf>
+  </confs>
+</configurationDescriptor>

@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<ParticleSystem
+	spread = "2"
+
+	lifetime = "1"
+	lifetimeDeviation = "0"
+
+	startSpeed = "100"
+	startSpeedDeviation = "0.2"
+
+	emissionRate = "100"
+
+	startColor = "1, 1, 1"
+	colorDeviation = "0"
+
+	startAlpha = "0"
+	endAlpha = "0.7"
+	alphaDeviation = "0"
+
+	startScale = "3"
+	endScale = "0"
+	scaleDeviation = "0.3"
+
+	blendMode = "additive"
+
+	gravity = "0, -300"
+
+	systemLifetime = "0.15"
+/>
